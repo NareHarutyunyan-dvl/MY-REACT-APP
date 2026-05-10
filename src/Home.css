@@ -1,0 +1,15 @@
+.x {
+  color: red;
+}
+
+.card {
+  width: 500px;
+  border: solid red;
+  margin-top: 40px;
+}
+
+.cardBlue {
+  width: 500px;
+  border: solid blue;
+  margin-top: 40px;
+}
